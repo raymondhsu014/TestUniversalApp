@@ -7,8 +7,8 @@
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d">
 
-    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
-        <Grid>
+    <Grid Name="gMain"  Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <!--<Grid>
             <Grid.RowDefinitions>
                 <RowDefinition Height="*"/>
                 <RowDefinition Height="*"/>
@@ -28,6 +28,6 @@
             <Rectangle Name="r7" Grid.Row="2" Grid.Column="0" Fill="SaddleBrown" Stroke="Red"  ></Rectangle>
             <Rectangle Name="r8" Grid.Row="2" Grid.Column="1" Fill="Beige" Stroke="Red"  ></Rectangle>
             <Rectangle Name="r9" Grid.Row="2" Grid.Column="2" Fill="Violet" Stroke="Red"  ></Rectangle>
-        </Grid>
+        </Grid>-->
     </Grid>
 </Page>
